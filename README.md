@@ -69,3 +69,36 @@ Agile Methodologies
 **Load Testing:** Using tools like JMeter, I simulate a high volume of users to evaluate how the application behaves under expected and peak loads.
 
 
+------------------------------------------------------------------------------------------------------
+
+**Domain Expertise:**
+
++ Claims and litigation management (web and mobile apps for Android and iOS), integrated with payment gateways (Stripe, Braintree).
+
++ Professional events management software. (web and mobile apps for Android and iOS)
+
++ Harm reduction tools for the healthcare sector.(web app)
+
++ Adjuster licenses tracking software (web app testing and business analysis).
+
++ Invoice management systems for large-scale processing.(web app)
+
++ Vehicle tracking and security systems.(web and mobile apps for Android and iOS)
+
++ Field service management systems tested on both tablet and mobile devices.
+
+**Tools and Technologies:**
+
+Tools such as Azure DevOps, JMeter, Postman API, Microsoft TFS, OpenProject, and UIPath have been used extensively, along with Excel for test documentation.
+
+**Testing Environments:**
+
+Experience in working with staging, demo, UAT, and live environments to ensure the quality and stability of applications.
+
+**Browsers and Platforms:**
+
+Expertise in cross-browser testing on Edge, Chrome, Firefox, Internet Explorer, Opera, and Safari, alongside Android Play Store testing.
+
+**Agile Methodology:**
+
+Strong collaboration with developers, using bug reporting tools to track issues with detailed steps to reproduce, screen recordings, and screenshots.
