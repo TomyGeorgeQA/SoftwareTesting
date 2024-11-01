@@ -57,4 +57,13 @@ Agile Methodologies
 **API Testing:** Testing the APIs to ensure they are secure, reliable, and return the expected responses under various conditions.
 
 
+----------------------------------------------------------------------------------------------------
+
+***Non-Functional Testing Methods:***
+
+
+**Performance Testing:** I assess the responsiveness, stability, and speed of the system under different conditions to ensure that it meets the required performance benchmarks.
+
+**Load Testing:** Using tools like JMeter, I simulate a high volume of users to evaluate how the application behaves under expected and peak loads.
+
 
