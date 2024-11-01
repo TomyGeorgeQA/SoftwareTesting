@@ -1,5 +1,7 @@
 # SoftwareTesting
-This repository contains a robust framework for manual and automated software testing, developed by Tomy George, a software tester with 5 years of experience. It includes testing strategies, test plans, and scripts across various domains, including desktop, web, and mobile applications. The framework focuses on functional and non-functional testing.
+This repository showcases a versatile range of functional and non-functional testing methodologies, applied across **Android and iOS mobile apps, web applications, desktop applications, and software products** developed by Tomy George, a software tester with 5 years of experience. It includes testing strategies, test plans, and scripts across various domains, including desktop, web, and mobile applications. The framework focuses on functional and non-functional testing.
+
+
 
 ***Features:***
 
